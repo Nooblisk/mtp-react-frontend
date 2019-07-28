@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mtp-react-frontend/static/css/main.fe26f80c.chunk.css",
-    "main.js": "/mtp-react-frontend/static/js/main.ae1db8f3.chunk.js",
-    "main.js.map": "/mtp-react-frontend/static/js/main.ae1db8f3.chunk.js.map",
+    "main.js": "/mtp-react-frontend/static/js/main.1437ce2b.chunk.js",
+    "main.js.map": "/mtp-react-frontend/static/js/main.1437ce2b.chunk.js.map",
     "runtime~main.js": "/mtp-react-frontend/static/js/runtime~main.b1a8d6b9.js",
     "runtime~main.js.map": "/mtp-react-frontend/static/js/runtime~main.b1a8d6b9.js.map",
     "static/css/2.098bc035.chunk.css": "/mtp-react-frontend/static/css/2.098bc035.chunk.css",
     "static/js/2.e08a350a.chunk.js": "/mtp-react-frontend/static/js/2.e08a350a.chunk.js",
     "static/js/2.e08a350a.chunk.js.map": "/mtp-react-frontend/static/js/2.e08a350a.chunk.js.map",
     "index.html": "/mtp-react-frontend/index.html",
-    "precache-manifest.626eacb6521d2e235557e9da8904cab1.js": "/mtp-react-frontend/precache-manifest.626eacb6521d2e235557e9da8904cab1.js",
+    "precache-manifest.480816aa8926b37aedaeabf60f17fdb3.js": "/mtp-react-frontend/precache-manifest.480816aa8926b37aedaeabf60f17fdb3.js",
     "service-worker.js": "/mtp-react-frontend/service-worker.js",
     "static/css/2.098bc035.chunk.css.map": "/mtp-react-frontend/static/css/2.098bc035.chunk.css.map",
     "static/css/main.fe26f80c.chunk.css.map": "/mtp-react-frontend/static/css/main.fe26f80c.chunk.css.map"
