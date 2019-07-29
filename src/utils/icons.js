@@ -4,12 +4,13 @@ import { isNil } from 'ramda';
 
 const ICON_SIZE = [30, 45];
 const ICON_COLORS = [COLORS.BLACK, COLORS.GREEN, COLORS.YELLOW, COLORS.RED, COLORS.VIOLET, COLORS.BLUE];
+const ICONS_FOLDER = `${process.env.PUBLIC_URL}/icons`;
 
 const icons = ICON_COLORS.reduce((result, color) => {
     return {
         ...result,
         [color]: Leaflet.icon({
-            iconUrl: `/icons/map-marker-${color}.svg`,
+            iconUrl: `${ICONS_FOLDER}/map-marker-${color}.svg`,
             iconSize: ICON_SIZE,
         }),
     };
